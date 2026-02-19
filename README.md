@@ -130,3 +130,7 @@ cd <Streamlit app>
 python train.py
 streamlit run app.py
 ```
+
+## Дополнительно был реализован CI_CD pipeline
+Ссылка:
+https://github.com/AndrewEuler/CI_CD_projects
